@@ -2,9 +2,10 @@
 <project version="4">
   <component name="dataSourceStorageLocal">
     <data-source name="Rails Panda3: development" uuid="97f6857b-e90f-4dac-8bdb-fd7ee3925adb">
-      <first-sync>true</first-sync>
       <user-name>panda3_dev</user-name>
       <user-password>dfdadf9edfc4dfcedf9edff5dfcedfcfdfdc</user-password>
+      <schema-pattern>panda3_development.*</schema-pattern>
+      <default-schemas>panda3_development.*</default-schemas>
     </data-source>
     <data-source name="Rails Panda3: test" uuid="3a385f01-3de1-4e41-9690-ad6c1dcfa3d9">
       <first-sync>true</first-sync>

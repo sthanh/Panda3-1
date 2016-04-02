@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="4043645920">
+  <component name="DataSourceManagerImpl" format="xml" hash="1718077631">
     <data-source source="LOCAL" name="Rails Panda3: development" uuid="97f6857b-e90f-4dac-8bdb-fd7ee3925adb">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
